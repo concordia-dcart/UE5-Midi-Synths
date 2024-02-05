@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/Midi_Sequencer_Tester.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/MIDI_File_Example.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Synths/FMSynth.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/Patches/MidiSequencer.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Synths/Patches/Modulator.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/melody_1.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/melody_2.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/melody_3.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/Midi_Sequencer_Tester.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/chords.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/MIDI/MIDI_File_Example.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/Synths/Patches/Modulator.uasset",
+				"C:/Users/thoma/Documents/Unreal Projects/UE5-Midi-Synths/UE5_Midi_Synths/Content/Synths/FMSynth.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Never-Gonna-Give-You-Up-3.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/A_-_i_bVIIM_VI_bii.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MidiSequencer.uasset",
@@ -17,9 +30,6 @@
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Midi_Sequencer_Tester.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI_File_Example.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/MidiSequencer.uasset",
-				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/Midi_Sequencer_Tester.uasset",
-				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/MIDI_File_Example.uasset",
-				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Synths/FMSynth.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/EmptyMap_HLOD0_Instancing.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/EmptyMap/7/HR/BKACY3TW4PL53QQUOCI558.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/__ExternalObjects__/EmptyMap/0/JD/2ZJFHJJ7TPPQINYGBV329Q.uasset",
@@ -92,8 +102,6 @@
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/EmptyMap/D/K5/073PWRDZL16UXTDPTBR3GU.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/EmptyMap/A/UH/NM5HK1NZIQO7CRIFUWH3QO.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/EmptyMap.umap",
-				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/MIDI/Patches/MidiSequencer.uasset",
-				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/Synths/Patches/Modulator.uasset",
 				"C:/Users/thoma/Documents/Unreal Projects/MyProject/Content/NewMetaSoundSource.uasset"
 			]
 		}
